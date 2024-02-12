@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Github/Brackeys24/Brackeys24/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/Github/Brackeys24/Brackeys24/Content/Nialls-BPs/FireSpell.uasset",
+				"E:/Github/Brackeys24/Brackeys24/Content/Nialls-BPs/SFX/ES_Magic_Spell_Whoosh_3_-_SFX_Producer.uasset",
+				"E:/Github/Brackeys24/Brackeys24/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Github/Brackeys24/Brackeys24/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"E:/Github/Brackeys24/Brackeys24/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"E:/Github/Brackeys24/Brackeys24/Content/Nialls-BPs/SFX/ES_Fireball_Burst_5_-_SFX_Producer.uasset",
+				"E:/Github/Brackeys24/Brackeys24/Content/Nialls-BPs/SFX/ES_Whip_Swish_1_-_SFX_Producer.uasset",
+				"E:/Github/Brackeys24/Brackeys24/Content/Nialls-BPs/Sprite-0001.uasset",
+				"E:/Github/Brackeys24/Brackeys24/Content/Nialls-BPs/Sprite-0001_Mat.uasset",
 				"C:/Users/ronan/OneDrive/Documents/UnrealJam/Brackeys24/Brackeys24/Content/__ExternalActors__/Ronans_BPs/RonansTestMap/7/DD/U0NQNSRIWNBJUOJ80M9U4X.uasset",
 				"C:/Users/ronan/OneDrive/Documents/UnrealJam/Brackeys24/Brackeys24/Content/__ExternalActors__/Ronans_BPs/RonansTestMap/2/0Z/FZGNO6AN2X2ZOVOMB1FY8A.uasset",
 				"C:/Users/ronan/OneDrive/Documents/UnrealJam/Brackeys24/Brackeys24/Content/__ExternalActors__/Ronans_BPs/RonansTestMap/D/DN/1A5GW72H9SPYJ25N01M9OB.uasset",
@@ -371,8 +381,7 @@
 				"C:/Users/ronan/OneDrive/Documents/UnrealJam/Brackeys24/Brackeys24/Content/__ExternalActors__/Ronans_BPs/RonansTestMap/8/BN/7WW0G81HKYDU3OYPRMR6CL.uasset",
 				"C:/Users/ronan/OneDrive/Documents/UnrealJam/Brackeys24/Brackeys24/Content/__ExternalActors__/Ronans_BPs/RonansTestMap/5/L9/S6UGC1TH46352LE10K9GUO.uasset",
 				"C:/Users/ronan/OneDrive/Documents/UnrealJam/Brackeys24/Brackeys24/Content/__ExternalActors__/Ronans_BPs/RonansTestMap/9/2R/3FMJAQS5SMKPXFP162GYAH.uasset",
-				"C:/Users/ronan/OneDrive/Documents/UnrealJam/Brackeys24/Brackeys24/Content/Ronans_BPs/Materials/PP/MaskCustomDepth_MF.uasset",
-				"E:/Github/Brackeys24/Brackeys24/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/ronan/OneDrive/Documents/UnrealJam/Brackeys24/Brackeys24/Content/Ronans_BPs/Materials/PP/MaskCustomDepth_MF.uasset"
 			]
 		}
 	]
